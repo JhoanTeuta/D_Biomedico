@@ -1,4 +1,3 @@
-```cpp
 #include <LiquidCrystal.h>
 
 LiquidCrystal lcd(12, 11, 5, 4, 3, 2); // Define los pines RS, E, D4, D5, D6, D7
@@ -24,4 +23,3 @@ void loop() {
   
   delay(1000);
 }
-```
